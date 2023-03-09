@@ -29,6 +29,6 @@ int main() {
 }
 ```
 ###### Take Away
->```
+>```Ruby
 > Let a number x occurs freq[x] times then we need N - freq[x] operations. To minimize (N - freq[x]) we have to maximize freq[x].
 >```
