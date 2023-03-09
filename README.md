@@ -2,6 +2,7 @@
 > Submission code: [Check here](https://www.codechef.com/viewsolution/91739320)
 <details><summary>Code</summary>
 <p>
+	
 ```C++
 #include <bits/stdc++.h>
 using namespace std;
@@ -29,10 +30,12 @@ int main() {
 	}
 	return 0;
 }
+	
+```
 </p>
 </details>
-```
+	
 ###### Take Away
->```Ruby
+>```Ruby	
 > Let a number x occurs freq[x] times then we need N - freq[x] operations. To minimize (N - freq[x]) we have to maximize freq[x].
 >```
