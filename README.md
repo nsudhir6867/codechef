@@ -1,5 +1,7 @@
 ## [Equal Elements](https://www.codechef.com/problems/EQUALELE)
 > Submission code: [Check here](https://www.codechef.com/viewsolution/91739320)
+<details><summary>Code</summary>
+<p>
 ```C++
 #include <bits/stdc++.h>
 using namespace std;
@@ -27,6 +29,8 @@ int main() {
 	}
 	return 0;
 }
+</p>
+</details>
 ```
 ###### Take Away
 >```Ruby
